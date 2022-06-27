@@ -1,0 +1,188 @@
+   * {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     font-size: 62.5%;
+   }
+   
+   
+   :root .container-fluid {
+     padding-left: 2rem;
+     padding-right: 2rem;
+   }
+
+   header {
+     display: flex;
+   }
+
+   header nav.header {
+     background: #00063D;
+   }
+
+   header nav.header .titulo {
+     color: #F26419;
+     font-size: 2.4rem;
+   }
+
+   header nav.header .titulo span {
+     color: #ebebeb; 
+     font-size: 2.4rem;
+   }
+   
+   header nav.header .menu ul li {
+     list-style: none;
+   }
+
+   header nav.header .menu ul li a {
+     font-size: 1.6rem;
+     text-decoration: none;
+     font-style: normal;
+     color:#F26419; 
+   }
+   
+   a#Sobre{
+     color: #ebebeb;
+     height: 2.5rem;
+     width: 2.8rem;
+     left: 81.8rem;
+     top: 0.6rem;
+    }
+
+   img#cubo{
+     margin-left: -20px ;
+     width: 50px;;
+     height: 50px;
+     padding: 12px;
+     transform:rotate(50deg);
+    }
+  
+    p#P-DES{
+     margin-top: 3rem;
+     width: 48.438rem;
+     height: 6.625rem;
+     margin-left: 7.5rem;
+     margin-top: 6.75;
+     font-family: 'Grenze';
+     font-style: normal;
+     font-weight: 25rem;
+     font-size: 1.6rem;
+     color: #000000;
+    }
+    div#card {
+     margin-top: 3rem;
+     text-align: center;
+     width: 32rem;
+     height: 35rem;
+     background: #31393C;
+     border: 3px solid #F6A02D;
+     border-radius: 25px;
+    }
+
+    .cardtitulo{
+     padding: 2rem;
+     width: 29rem;
+     height:  6rem;
+     left: 35rem;
+     top: 17.446rem; 
+     background: #F6A02D;
+     border-radius: 0.6rem;
+    }
+    
+    .cardtext{
+     font-family: 'Grenze';
+     font-style: normal;
+     font-weight: 25rem;
+     font-size: 0.063rem;
+     line-height: 1.688rem;
+     color: #FFFFFF;
+    }
+
+    .BntJogar{
+     text-align: center;
+     width: 15.25rem;
+     height: 15.074rem;
+     left: 39.375rem;
+     top: 37.158rem;
+     border-radius: 3.5rem;
+     background: #EBEBEB;
+    }
+
+    h5#titulo{
+     font-family: 'Grenze';
+     font-style: normal;
+     font-weight: 25rem;
+     font-size: 1.5rem;
+     line-height: 1.875rem;
+     color: #31393C;
+    }
+    p#texto{
+     width: 20rem;
+     height: 15rem;
+     font-family: 'Grenze';
+     font-style: normal;
+     margin-left: auto;
+     margin-right: auto;
+     font-size: 1.5rem;
+     line-height: 1.688rem;
+     text-align: center;
+     color: #FFFFFF;
+    }
+
+    a#Jogar{
+     font-family: 'Grenze';
+     font-style: normal;
+     
+     font-size: 1.3rem;
+    
+     color: #0A6ACB;
+    }
+ 
+    button#Borda{
+     margin-top: 15rem; 
+     width: 4.1rem;
+     height: 4.1rem;
+     background: #F6A02D;
+     border-radius: 50px;
+    }
+     
+    .linha{
+     margin-top: 23rem;
+     margin-left: auto;
+     margin-right: auto;
+     width: 62.5rem;
+     border: 1px solid #000000;
+    }
+
+    p#l{
+     font-family: 'Grenze';
+     font-style: normal;
+     font-weight: 20rem;
+     font-size: 1.5rem;
+     line-height: 1.5rem;
+     text-align: center;
+     color: #000000;
+    }
+
+    a#rodape{ 
+     font-family: 'Grenze';
+     font-style: normal;
+     font-weight: 25rem;
+     font-size: 1.5rem;
+     line-height: 1.5rem;
+     margin-top: 1rem;
+     margin-left: auto;
+     margin-right: auto;
+     color: #FFFFFF;
+    }
+
+    div#Rodape{ 
+     margin-top: 4rem;
+     width: 135.0rem;
+     height: 6.40rem;
+     background: #00063D;
+    }
+
+
+   
+  
+     
