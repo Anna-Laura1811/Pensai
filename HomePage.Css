@@ -97,14 +97,18 @@
      color: #FFFFFF;
     }
 
-    .BntJogar{
+    a#BntJogar{
      text-align: center;
      width: 15.25rem;
-     height: 15.074rem;
-     left: 39.375rem;
-     top: 37.158rem;
+     height: 3.074rem;
+     font-size: 1.6rem;
+     margin-top: 4.5rem;
+
      border-radius: 3.5rem;
      background: #EBEBEB;
+     font-family: 'Grenze';
+     font-style: normal;
+     color: #0A6ACB;
     }
 
     h5#titulo{
@@ -128,14 +132,6 @@
      color: #FFFFFF;
     }
 
-    a#Jogar{
-     font-family: 'Grenze';
-     font-style: normal;
-     
-     font-size: 1.3rem;
-    
-     color: #0A6ACB;
-    }
  
     button#Borda{
      margin-top: 15rem; 
