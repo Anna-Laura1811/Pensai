@@ -152,11 +152,13 @@
     p#l{
      font-family: 'Grenze';
      font-style: normal;
-     font-weight: 40rem;
+     font-weight: 10rem;
      font-size: 1.5rem;
-     line-height: 1.5rem;
      text-align: center;
      color: #000000;
+     width: 100.438rem;
+     height: 6.625rem;
+     margin-left: 17rem;
     }
 
     a#rodape{ 
