@@ -3,44 +3,43 @@
      padding: 0;
      box-sizing: border-box;
      font-size: 62.5%;
-   }
+    }
    
    
-   :root .container-fluid {
-     padding-left: 2rem;
-     padding-right: 2rem;
-   }
-
    header {
      display: flex;
-   }
+    }
 
-   header nav.header {
+   div#Cabeçalho{
+    width: 135.5rem;
+    height: 6.40rem;
      background: #00063D;
-   }
+    }
 
-   header nav.header .titulo {
+   h1#PENS {
+     margin-top: 1rem;
      color: #F26419;
      font-size: 2.4rem;
-   }
+     font-family: 'Grenze';
+    }
 
-   header nav.header .titulo span {
+   span#Aí{
      color: #ebebeb; 
      font-size: 2.4rem;
-   }
+    }
    
-   header nav.header .menu ul li {
-     list-style: none;
-   }
+  
+   ul#Menu{
+     font-size: 4rem;
+    }
+   
+   a#Home{
+    color: #F26419;
+    }
 
-   header nav.header .menu ul li a {
-     font-size: 1.6rem;
-     text-decoration: none;
-     font-style: normal;
-     color:#F26419; 
-   }
-   
    a#Sobre{
+     margin-right: 1rem;
+     margin-bottom: 2rem;
      color: #ebebeb;
      height: 2.5rem;
      width: 2.8rem;
@@ -49,7 +48,8 @@
     }
 
    img#cubo{
-     margin-left: -20px ;
+     margin-top: 0.6rem;
+     margin-left: -15px ;
      width: 50px;;
      height: 50px;
      padding: 12px;
@@ -68,7 +68,9 @@
      font-size: 1.6rem;
      color: #000000;
     }
+
     div#card {
+     margin-left: 3rem;
      margin-top: 3rem;
      text-align: center;
      width: 32rem;
@@ -77,7 +79,7 @@
      border: 3px solid #F6A02D;
      border-radius: 25px;
     }
-
+    
     .cardtitulo{
      padding: 2rem;
      width: 29rem;
@@ -140,10 +142,11 @@
      background: #F6A02D;
      border-radius: 50px;
     }
-     
+ 
+
     .linha{
      margin-top: 23rem;
-     margin-left: auto;
+     margin-left: 21rem;
      margin-right: auto;
      width: 93.5rem;
      border: 1px solid #000000;
@@ -175,7 +178,7 @@
 
     div#Rodape{ 
      margin-top: 4rem;
-     width: 135.0rem;
+     width: 135.5rem;
      height: 6.40rem;
      background: #00063D;
     }
