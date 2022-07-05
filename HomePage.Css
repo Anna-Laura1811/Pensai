@@ -3,20 +3,21 @@
      padding: 0;
      box-sizing: border-box;
      font-size: 62.5%;
-    }
-   
-   
-   header {
+     }
+  
+    
+   header{
      display: flex;
     }
-
+   
    div#Cabeçalho{
     width: 135.5rem;
     height: 6.40rem;
-     background: #00063D;
+    background: #00063D;
     }
-
-   h1#PENS {
+    
+    
+   h1#PENS{
      margin-top: 1rem;
      color: #F26419;
      font-size: 2.4rem;
@@ -55,7 +56,7 @@
      padding: 12px;
      transform:rotate(50deg);
     }
-  
+    
     p#P-DES{
      margin-top: 3rem;
      width: 48.438rem;
@@ -70,6 +71,7 @@
     }
 
     div#card {
+      
      margin-left: 3rem;
      margin-top: 3rem;
      text-align: center;
@@ -174,6 +176,7 @@
      margin-left: auto;
      margin-right: auto;
      color: #FFFFFF;
+   
     }
 
     div#Rodape{ 
@@ -182,8 +185,9 @@
      height: 6.40rem;
      background: #00063D;
     }
-
-
+     
+ 
+    
    
   
      

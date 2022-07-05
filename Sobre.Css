@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 62.5%;
+   }
+  
+  
+  header {
+    display: flex;
+   }
+
+  div#Cabeçalho{
+
+   width: 135.5rem;
+   height: 6.40rem;
+   background: #00063D;
+   }
+
+  h1#PENS {
+    margin-top: 1rem;
+    color: #F26419;
+    font-size: 2.4rem;
+    font-family: 'Grenze';
+   }
+
+  span#Aí{
+    color: #ebebeb; 
+    font-size: 2.4rem;
+   }
+  
+ 
+  ul#Menu{
+    font-size: 4rem;
+   }
+  
+  a#Home{
+   color: #F26419;
+   }
+
+  a#Sobre{
+    margin-right: 1rem;
+    margin-bottom: 2rem;
+    color: #ebebeb;
+    height: 2.5rem;
+    width: 2.8rem;
+    left: 81.8rem;
+    top: 0.6rem;
+   }
+
+  img#cubo{
+    margin-top: 0.6rem;
+    margin-left: -15px ;
+    width: 50px;;
+    height: 50px;
+    padding: 12px;
+    transform:rotate(50deg);
+   }
+ 
+   a#rodape{ 
+    font-family: 'Grenze';
+    font-style: normal;
+    font-weight: 25rem;
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    margin-top: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    color: #FFFFFF;
+   }
+
+   div#Rodape{ 
+    margin-top:175rem;
+    width: 135.5rem;
+    height: 6.40rem;
+    background: #00063D;
+   }
