@@ -47,6 +47,7 @@
     left: 81.8rem;
     top: 0.6rem;
    }
+   
 
   img#cubo{
     margin-top: 0.6rem;
@@ -55,7 +56,9 @@
     height: 50px;
     padding: 12px;
     transform:rotate(50deg);
+    
    }
+   
    
    p#l{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -68,7 +71,7 @@
     height:12rem;
     margin-left: 8rem;
    }
-
+ 
    a#rodape{ 
     font-family: 'Grenze';
     font-style: normal;
