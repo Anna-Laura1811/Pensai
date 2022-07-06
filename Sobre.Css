@@ -56,7 +56,19 @@
     padding: 12px;
     transform:rotate(50deg);
    }
- 
+   
+   p#l{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+   
+    font-size: 1.7rem;
+    padding: 5rem;
+    color: #000000;
+    width: 100rem;
+    height:12rem;
+    margin-left: 8rem;
+   }
+
    a#rodape{ 
     font-family: 'Grenze';
     font-style: normal;
@@ -70,7 +82,7 @@
    }
 
    div#Rodape{ 
-    margin-top:175rem;
+    margin-top:40rem;
     width: 135.5rem;
     height: 6.40rem;
     background: #00063D;
